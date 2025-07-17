@@ -1,6 +1,6 @@
 --prefer-binary
 aiogram==2.25.2
-aiohttp==3.8.6
+aiohttp==3.8.1
 aiosignal==1.4.0
 async-timeout==4.0.3
 attrs==25.3.0
